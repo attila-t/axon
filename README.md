@@ -64,4 +64,5 @@ Some details in this readme might be Linux specific.
 
 * The [Flutter](https://flutter.dev) framework
 * The [Dart](https://dart.dev) language
+* [Cross-platform app development Frameworks in 2022](https://solguruz.com/blog/cross-platform-app-development-frameworks/)
 * [Flutter vs. React Native](https://www.youtube.com/watch?v=X8ipUgXH6jw)
