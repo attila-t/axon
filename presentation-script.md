@@ -40,12 +40,14 @@ Dart is a client-optimized language for developing apps on any platform. It prov
 * I have it installed by cloning its stable branch; you can install it however you want
 * open terminal no.2
 * `cd <flutter-dir>`
+* `git status`
 * health: `flutter doctor -v`
 * list of available devices: `flutter devices`
 * it lists Android emulator(s), your OS dependent desktop, and Chrome as the browser
 
 # The project:
 * it's a clone of the above repo
+* it's based on an auto-generated Hello World app
 * open terminal no.3
 * `cd <project-dir>`
 * `git status`
@@ -74,7 +76,8 @@ Change something, i.e. brightness then go to terminal no.3 then r || R
 * go to terminal no.3 then q
 * stop the running emulator: `adb -s emulator-5554 emu kill`
 * `flutter run --device-id chrome`
-* close
+* start Firefox then go to the copy-pasted the URL from Chrome
+* close Chrome, close Firefox
 * `flutter run --device-id linux`
 * close
 
